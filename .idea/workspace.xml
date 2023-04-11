@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e60e2cb-46d5-4733-8fe0-0c3886cee744" name="Changes" comment="Arrays and Big-O Notations save.">
-      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithmsAndImpl/BubbleSort.java" afterDir="false" />
+    <list default="true" id="5e60e2cb-46d5-4733-8fe0-0c3886cee744" name="Changes" comment="Bubble Sort - save">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Day-1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681108783688</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Bubble Sort - save">
+      <created>1681132279616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681132279616</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Arrays and Big-O Notations save." />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays and Big-O Notations save." />
+    <MESSAGE value="Bubble Sort - save" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bubble Sort - save" />
   </component>
 </project>
