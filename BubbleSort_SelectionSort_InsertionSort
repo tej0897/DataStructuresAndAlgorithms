@@ -1,0 +1,83 @@
+Bubble Sort:
+
+How it works?
+
+    1. we have an array, this algorithm will partition the array into sorted and unsorted.
+
+    2. Start from left, i.e. index = 0. It checks if the next number is greater (0 index vs 1 index). If greater, do nothing. If less, perform a swap.
+
+    3. increment index = 1 .... this stops when index == partitionIndex (array length -1)
+
+    4. after one cycle, partitionIndex will become array length -2 cause the last to numbers are sorted.
+
+        ******
+
+In-Place Algorithm: Does not need another array for sorting. It is done using single array.
+
+Time-Complexity: O(n^2) - quadratic
+    100 steps to sort 10 items
+    10,000 steps to sort 100 items
+
+_______________________________________
+
+Stable vs Unstable sort:
+
+Let's say we have an array with 5 elements.
+Two of them are 9.
+One is black 9 and other one is white.
+White is in index 1, black is in index 3.
+
+If it is unstable sort, then the relative order will not matter. Therefore, the while 9 will cross the black 9.
+
+In Stable sort, the relative order is preserved. The white 9 will not cross the black 9.
+
+Stable sort > UnStable sort
+
+Bubble sort is stable sort.
+
+_______________________________________
+
+Selection Sort:
+
+    This Algorithm also partitions the array into sorted and unsorted.
+
+    Step 1:
+        Largest = element at 0th index.
+        lastUnsortedIndex = 6
+        i = 1; index used to traverse the array from left to right.
+
+    Step 2:
+        Compare index 0 and 1, 1>0?
+            then largest = 1(index)
+            i = 2
+        compare index 1 and 2, 2<1?
+            then i = 3
+
+    Step 3:
+        first traversal completes when i = lastUnsortedIndex
+        swap 6th index value with largest
+            lastUnsortedIndex = 5
+            i = 1
+            largest = index 0
+
+
+        ******
+
+Selection Sort is In-Place algorithm. No extra space is used.
+
+Time-Complexity: O(n^2)
+
+Less swapping when compared to bubble sort, so it'll perform better.
+
+It is UnStable Algorithm.
+
+_______________________________________
+
+
+
+
+
+
+
+
+
