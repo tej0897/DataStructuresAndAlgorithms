@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e60e2cb-46d5-4733-8fe0-0c3886cee744" name="Changes" comment="Selection Sort - save-1">
+    <list default="true" id="5e60e2cb-46d5-4733-8fe0-0c3886cee744" name="Changes" comment="Selection Sort - final">
+      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithmsAndImpl/InsertionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortingAlgorithmsAndImpl/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgorithmsAndImpl/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Day-2" />
+        <entry key="$PROJECT_DIR$" value="Day-2.1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +44,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SelectionSort">
+  <component name="RunManager" selected="Application.InsertionSort">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Arrays" />
       <module name="DataStructuresAndAlgorithms" />
@@ -71,6 +71,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingAlgorithmsAndImpl.InsertionSort" />
+      <module name="DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SortingAlgorithmsAndImpl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SortingAlgorithmsAndImpl.SelectionSort" />
       <module name="DataStructuresAndAlgorithms" />
@@ -86,6 +99,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Arrays" />
@@ -129,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681237615719</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Selection Sort - final">
+      <created>1681238558858</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681238558858</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +169,7 @@
     <MESSAGE value="Bubble Sort - save" />
     <MESSAGE value="Insertion Sort - save-1" />
     <MESSAGE value="Selection Sort - save-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selection Sort - save-1" />
+    <MESSAGE value="Selection Sort - final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selection Sort - final" />
   </component>
 </project>
