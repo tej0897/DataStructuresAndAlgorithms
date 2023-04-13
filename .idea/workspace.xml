@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e60e2cb-46d5-4733-8fe0-0c3886cee744" name="Changes" comment="Selection Sort - final">
-      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithmsAndImpl/InsertionSort.java" afterDir="false" />
+    <list default="true" id="5e60e2cb-46d5-4733-8fe0-0c3886cee744" name="Changes" comment="Insertion Sort - final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681238558858</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Insertion Sort - final">
+      <created>1681310051605</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681310051605</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +176,7 @@
     <MESSAGE value="Insertion Sort - save-1" />
     <MESSAGE value="Selection Sort - save-1" />
     <MESSAGE value="Selection Sort - final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selection Sort - final" />
+    <MESSAGE value="Insertion Sort - final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Insertion Sort - final" />
   </component>
 </project>
